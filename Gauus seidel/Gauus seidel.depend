@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1607573420 source:d:\trabajo final elena\gauus seidel\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<stdlib.h>
+	<stdio.h>
+
